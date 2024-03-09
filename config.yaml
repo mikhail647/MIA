@@ -1,0 +1,115 @@
+mia_cmd_open:
+  Counter-Strike 2:
+    cmd_worlds:
+    - counter-strike
+    name: Counter-Strike 2
+    patch: 'null'
+    process_name: 'null'
+  Excel:
+    cmd_worlds:
+    - excel
+    name: Excel
+    patch: 'null'
+    process_name: 'null'
+  FACEIT:
+    cmd_worlds:
+    - faceit
+    name: FACEIT
+    patch: 'null'
+    process_name: 'null'
+  Google Chrome:
+    cmd_worlds:
+    - chrome
+    name: Google Chrome
+    patch: 'null'
+    process_name: 'null'
+  Paint:
+    cmd_worlds:
+    - paint
+    name: Paint
+    patch: 'null'
+    process_name: 'null'
+  Telegram:
+    cmd_worlds:
+    - telegram
+    name: Telegram
+    patch: 'null'
+    process_name: 'null'
+  Visual Studio Code:
+    cmd_worlds:
+    - visual code
+    name: Visual Studio Code
+    patch: 'null'
+    process_name: 'null'
+  Word:
+    cmd_worlds:
+    - word
+    name: Word
+    patch: 'null'
+    process_name: 'null'
+  discord:
+    cmd_worlds:
+    - discord
+    - дискорд
+    name: discord
+    path: C:\Users\Gods0ft\AppData\Local\Discord\app-1.0.9028\Discord.exe
+    process_name: Discord.exe
+  getvk:
+    cmd_worlds:
+    - вк
+    - vk
+    url: https://vk.com/feed
+  github:
+    cmd_worlds:
+    - гитхаб
+    - github
+    url: https://github.com
+  lowfi:
+    cmd_worlds:
+    - lo-fi
+    url: https://www.youtube.com/watch?v=jfKfPfyJRdk
+  mail:
+    cmd_worlds:
+    - почта
+    - mail
+    url: https://www.google.com/intl/ru/gmail/about/
+  music:
+    cmd_worlds:
+    - музыка
+    url: https://www.youtube.com/watch?v=CK5lmH7X4xk
+  steam:
+    cmd_worlds:
+    - steam
+    - стим
+    name: steam
+    path: D:\games\steam\steam.exe
+    process_name: steam.exe
+  telegram:
+    cmd_worlds:
+    - телеграм
+    - Telegram
+    name: Telegram
+    path: null
+    process_name: Telegram.exe
+  twich:
+    cmd_worlds:
+    - Twitch
+    - твитч
+    - стримы
+    url: https://www.twitch.tv
+  youtube:
+    cmd_worlds:
+    - Youtube
+    - ютуб
+    - видео
+    url: https://www.youtube.com
+mia_reactions:
+  cant_open:
+  - прошу прощения, но я пока не знаю путь до этого приложения, пожалуйста запустите
+    его и повторите команду, я запишу его путь
+  - запустите данное приложение, мне нужно записать его путь
+  default:
+  - открываю
+  - запускаю
+  find_success: нашла приложение, в следующий раз я его открою
+model_params: null
